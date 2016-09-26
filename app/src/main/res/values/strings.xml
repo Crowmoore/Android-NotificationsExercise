@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="text_header">Notifications, Menus and Dialogs</string>
+    <string name="text_public">Public notification</string>
+    <string name="text_private">Private notification</string>
+    <string name="text_secret">Secret notification</string>
+    <string name="exit_dialog_title">Exit dialog</string>
+    <string name="exit_dialog_message">Exit dialog fragment example</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="list_dialog_title">List dialog</string>
+
+    <string name="btn_send_notification">Send notification</string>
+    <string name="btn_exit_dialog">Exit dialog</string>
+    <string name="btn_list_dialog">List dialog</string>
+    <string name="menu_title">Menu</string>
+    <string name="first_item">First menu item</string>
+    <string name="second_item">Second menu item</string>
+
+    <string-array name="message_types">
+        <item>Call</item>
+        <item>SMS</item>
+        <item>Email</item>
+    </string-array>
+</resources>
